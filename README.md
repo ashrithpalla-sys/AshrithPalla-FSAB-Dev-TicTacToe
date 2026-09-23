@@ -19,7 +19,7 @@ The game follows the React tutorial's board, squares, and turn logic. The additi
 
 Only the current player's clock runs. Running out of time loses the round. Changing colors keeps your moves; changing the clock resets the game. Refreshing the page resets everything.
 
-I chose the color-switching and chess-clock ideas. Codex helped with the code, testing, and README.
+I chose the color-switching and chess-clock ideas. Codex helped with the code and testing.
 
 ## What I learned
 
